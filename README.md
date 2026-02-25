@@ -22,9 +22,4 @@ This is a simple front-end project for a church website, including:
 - Clean navigation bar linking Home and Sermon pages  
 - Footer styled with Dunamis color theme  
 
-## How to View
 
-1. Clone the repository:
-
-```bash
-git clone https://github.com/your-username/youth-church-website.git
